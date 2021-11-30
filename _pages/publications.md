@@ -8,11 +8,6 @@ selected_papers: true
 nav: true
 ---
 
- {% if page.selected_papers %}
-      {% include selected_papers.html %}
-    {% endif %}
-
-
 <div class="publications">
 
 {% for y in page.years %}
