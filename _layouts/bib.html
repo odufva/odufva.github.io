@@ -3,7 +3,9 @@
 
  <article>
    
-   
+ {% if page.selected_papers %}
+      {% include selected_papers.html %}
+    {% endif %}
    
  </article>
 
