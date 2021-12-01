@@ -5,6 +5,7 @@ description: Investigating the interplay between blood cancer genomics and immun
 img: assets/img/hemap_schematic.png
 importance: 1
 category: cancer immunology
+github: https://github.com/systemsgenomics/ImmunogenomicLandscape-BloodCancers
 ---
 
 Every project has a beautiful feature showcase page.
