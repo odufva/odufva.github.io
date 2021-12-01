@@ -2,9 +2,9 @@
 layout: page
 title: research
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Examples of research projects I have worked on.
 nav: true
-display_categories: [work, fun]
+display_categories: [cancer immunology, cancer genomics]
 horizontal: false
 ---
 <div class="projects">
