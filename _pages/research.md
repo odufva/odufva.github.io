@@ -5,7 +5,7 @@ permalink: /projects/
 description: Examples of research projects I have worked on.
 nav: true
 display_categories: [cancer immunology, cancer genomics]
-horizontal: false
+horizontal: true
 ---
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
