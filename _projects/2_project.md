@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: Functional genomics of CAR T cell cytotoxicity
+description: CRISPR functional genomics and high-throughput drug screens to tackle resistance to CAR T cell immunotherapy
+img: assets/img/cart_schematic.png
 importance: 2
-category: work
+category: cancer immunology
 ---
 
 Every project has a beautiful feature showcase page.
