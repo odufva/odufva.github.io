@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Immunogenomic landscape of hematological malignancies
+title: Blood cancer immune landscape
 description: Investigating the interplay between blood cancer genomics and immunity
-img: assets/img/hemap_schematic.png
+img: assets/img/hemap_schematic_2.png
 importance: 1
 category: cancer immunology
 github: https://github.com/systemsgenomics/ImmunogenomicLandscape-BloodCancers
