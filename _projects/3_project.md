@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Genomics in NK cell leukemia
+description: Genomics and drug discovery in rare NK cell leukemias
+img: assets/img/ankl_paper.png
 importance: 3
-category: work
+category: cancer genomics
 ---
 
 Every project has a beautiful feature showcase page.
