@@ -8,9 +8,11 @@ profile:
   align: right
   image: prof_pic.png
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Olli Dufva</p>
+    <p>MD</p>
+    <p>PhD student</p>
+    <p>University of Helsinki</p>
+    <p>Helsinki University Comprehensive Cancer Center</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
