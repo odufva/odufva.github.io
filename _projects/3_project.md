@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Genomics in NK cell leukemia
+title: NK cell leukemia genomics
 description: Genomics and drug discovery in rare NK cell leukemias
 img: assets/img/ankl_paper.png
 importance: 3
