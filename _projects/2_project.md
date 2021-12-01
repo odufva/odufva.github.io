@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Functional genomics of CAR T cell cytotoxicity
+title: CAR T cell functional genomics
 description: CRISPR functional genomics and high-throughput drug screens to tackle resistance to CAR T cell immunotherapy
 img: assets/img/cart_schematic.png
 importance: 2
