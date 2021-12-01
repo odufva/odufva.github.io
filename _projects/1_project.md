@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Immunogenomic landscape of hematological malignancies
+description: Investigating the interplay between blood cancer genomics and immunity
+img: assets/img/hemap_schematic.png
 importance: 1
-category: work
+category: cancer immunology
 ---
 
 Every project has a beautiful feature showcase page.
