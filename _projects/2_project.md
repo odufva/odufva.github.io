@@ -2,7 +2,7 @@
 layout: page
 title: CAR T cell functional genomics
 description: CRISPR functional genomics and high-throughput drug screens to tackle resistance to CAR T cell immunotherapy
-img: assets/img/cart_schematic.png
+img: assets/img/cart_paper.png
 importance: 2
 category: cancer immunology
 ---
