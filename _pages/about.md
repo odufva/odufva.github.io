@@ -9,10 +9,7 @@ profile:
   image: prof_pic.png
   address: >
     <p>Olli Dufva, MD</p>
-    <p>PhD student</p>
-    <p>University of Helsinki</p>
-    <p>Helsinki University Comprehensive Cancer Center</p>
-    <p>Helsinki, Finland</p>
+    <p>University of Helsinki, Finland</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
