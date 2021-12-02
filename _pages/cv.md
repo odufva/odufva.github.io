@@ -6,7 +6,9 @@ description:
 nav: True
 ---
 
-<embed src="https://odufva.github.io/assets/pdf/dufva_aggressive.pdf" type="application/pdf" />
+<p>Download CV as <a href="odufva.github.io/assets/pdf/dufva_aggressive.pdf" target="_blank">PDF.</a></p>
+
+<embed src="https://odufva.github.io/assets/pdf/dufva_aggressive.pdf" type="application/pdf" width="100%" height="800px"/>
 
 
 <div class="curriculum vitae">
