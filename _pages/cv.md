@@ -2,9 +2,11 @@
 layout: page
 permalink: /cv/
 title: cv
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: True
 ---
+
+<p>Download CV as <a href="odufva.github.io/assets/pdf/dufva_aggressive.pdf" target="_blank">PDF.</a></p>
 
 <div class="curriculum vitae">
   <h2>education</h2>
