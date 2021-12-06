@@ -12,7 +12,7 @@
   Olli  Dufva
 
 
-  | blog
+  | research
 
 </title>
 <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -38,7 +38,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🔘</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/projects/">
 
 
 <!-- Dark Mode -->
@@ -145,9 +145,11 @@
           
           
           
-          <li class="nav-item ">
+          <li class="nav-item active">
               <a class="nav-link" href="/projects/">
                 research
+                
+                <span class="sr-only">(current)</span>
                 
               </a>
           </li>
@@ -161,8 +163,8 @@
           
           
           
-            <div class = "toggle-container">
-              <a id = "light-toggle">
+            <div class="toggle-container">
+              <a id="light-toggle">
                   <i class="fas fa-moon"></i>
                   <i class="fas fa-sun"></i>
               </a>
@@ -181,119 +183,118 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2>a simple whitespace theme for academics</h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">research</h1>
+    <p class="post-description">Examples of research projects I have worked on.</p>
+  </header>
 
-
-  <ul class="post-list">
+  <article>
+    <div class="projects">
+  
+  <!-- Display categorized projects -->
     
-
-    
-    
-    
-    
-
-    <li>
-      <h3><a class="post-title" href="/blog/2021/diagrams/">a post with diagrams</a>
-      </h3>
-      <p>an example of a blog post with diagrams</p>
-      <p class="post-meta"> 2 min read &nbsp; &middot; &nbsp;
-        July 4, 2021
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2021">
-          <i class="fas fa-calendar fa-sm"></i> 2021 </a>
-
+      <h2 class="category">cancer immunology</h2>
+      
+      
+      <!-- Generate cards for each project -->
+      
+        <div class="grid">
           
+            <div class="grid-item">
+  
+  <a href="/projects/1_project/">
+  
+    <div class="card hoverable">
+      
+        
 
+
+<img src="/assets/resized/hemap_paper-1400x1167.png" srcset="    /assets/resized/hemap_paper-480x400.png 480w,    /assets/resized/hemap_paper-800x667.png 800w,    /assets/resized/hemap_paper-1400x1167.png 1400w,/assets/img/hemap_paper.png 1466w" alt="project thumbnail">
+
+      
+      <div class="card-body">
+        <p class="card-text">Investigating the interplay between blood cancer genomics and immunity</p>
+        <div class="row ml-1 mr-1 p-0">
           
-    </p>
-    </li>
-
-    
-
-    
-    
-    
-    
-
-    <li>
-      <h3><a class="post-title" href="/blog/2021/distill/">a distill-style blog post</a>
-      </h3>
-      <p>an example of a distill-style blog post and main elements</p>
-      <p class="post-meta"> 2 min read &nbsp; &middot; &nbsp;
-        May 22, 2021
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2021">
-          <i class="fas fa-calendar fa-sm"></i> 2021 </a>
-
-          
-
-          
-    </p>
-    </li>
-
-    
-
-    
-    
-    
-    
-
-    <li>
-      <h3><a class="post-title" href="/blog/2020/github-metadata/">a post with github metadata</a>
-      </h3>
-      <p>a quick run down on accessing github metadata.</p>
-      <p class="post-meta"> 2 min read &nbsp; &middot; &nbsp;
-        September 28, 2020
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2020">
-          <i class="fas fa-calendar fa-sm"></i> 2020 </a>
-
-          
-
-          
-          &nbsp; &middot; &nbsp;
+          <div class="github-icon">
+            <div class="icon" data-toggle="tooltip" title="Code Repository">
+              <a href="https://github.com/systemsgenomics/ImmunogenomicLandscape-BloodCancers" target="_blank" rel="noopener noreferrer"><i class="fab fa-github gh-icon"></i></a>
+            </div>
             
-            <a href="/blog/category/sample-posts">
-              <i class="fas fa-tag fa-sm"></i> sample-posts</a> &nbsp;
-              
-            <a href="/blog/category/external-services">
-              <i class="fas fa-tag fa-sm"></i> external-services</a> &nbsp;
-              
+          </div>
           
-    </p>
-    </li>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
 
+          
+            <div class="grid-item">
+  
+  <a href="/projects/2_project/">
+  
+    <div class="card hoverable">
+      
+        
+
+
+<img src="/assets/resized/cart_paper-1400x506.png" srcset="    /assets/resized/cart_paper-480x174.png 480w,    /assets/resized/cart_paper-800x289.png 800w,    /assets/resized/cart_paper-1400x506.png 1400w,/assets/img/cart_paper.png 1886w" alt="project thumbnail">
+
+      
+      <div class="card-body">
+        <p class="card-text">CRISPR functional genomics and high-throughput drug screens to tackle resistance to CAR T cell immunotherapy</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+        </div>
+      
     
-  </ul>
+      <h2 class="category">cancer genomics</h2>
+      
+      
+      <!-- Generate cards for each project -->
+      
+        <div class="grid">
+          
+            <div class="grid-item">
+  
+  <a href="/projects/3_project/">
+  
+    <div class="card hoverable">
+      
+        
+
+
+<img src="/assets/resized/ankl_paper-800x376.png" srcset="    /assets/resized/ankl_paper-480x225.png 480w,    /assets/resized/ankl_paper-800x376.png 800w,/assets/img/ankl_paper.png 1376w" alt="project thumbnail">
+
+      
+      <div class="card-body">
+        <p class="card-text">Genomics and drug discovery in rare NK cell leukemias</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+        </div>
+      
+    
 
   
-<nav aria-label="Blog page naviation">
-  <ul class="pagination pagination-lg justify-content-center">
-    <li class="page-item disabled">
-      <a class="page-link" href="" tabindex="-1" aria-disabled="">Newer</a>
-    </li>
-    
-      
-        <li class="page-item active"><a class="page-link" href="/blog/index.html" title="blog">1</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/blog/page/2/index.html" title="blog - page 2">2</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/blog/page/3/index.html" title="blog - page 3">3</a></li>
-      
-    
-    <li class="page-item ">
-      <a class="page-link" href="/blog/page/2/">Older</a>
-    </li>
-  </ul>
-</nav>
 
+</div>
 
+  </article>
 
 </div>
 
@@ -304,7 +305,7 @@
     
 <footer class="fixed-bottom">
   <div class="container mt-0">
-    &copy; Copyright 2021 Olli  Dufva.
+    © Copyright 2021 Olli  Dufva.
     
     
     
