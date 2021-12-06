@@ -6,5 +6,5 @@ description:
 nav: True
 ---
 
-<embed src="https://odufva.github.io/assets/pdf/dufva_aggressive.pdf" type="application/pdf" width="100%" height="800px"/>
+<embed src="https://odufva.github.io/assets/pdf/CV_Dufva_Dec2021.pdf" type="application/pdf" width="100%" height="800px"/>
 
